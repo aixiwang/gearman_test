@@ -1,0 +1,7 @@
+download code from: https://github.com/johnewart/gearman-java
+
+apt-get install openjdk-8-jdk
+apt-get install marven
+mvn clean && mvn compile && mvn package && start target
+
+
